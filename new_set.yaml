@@ -1,0 +1,10 @@
+# YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+
+train: ../images/train/
+val: ../images/val/
+test: ../images/test/ 
+
+# Classes
+nc: 5
+
+names: ['dog', 'cat', 'bird', 'horse', cow]
